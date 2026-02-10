@@ -9,7 +9,9 @@
 ## 演示
 
 <img width="692" height="390" alt="image" src="https://github.com/user-attachments/assets/c899b09c-3738-4151-9e01-0d5ebc54391f" />
-![Uploading image.png…]()
+
+<img width="692" height="385" alt="image" src="https://github.com/user-attachments/assets/7c9d90ab-5e78-415d-a304-b196605c4401" />
+
 
 ## 功能特性
 
