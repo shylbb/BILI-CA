@@ -6,6 +6,11 @@
 
 这是一个个人练习用的全栈项目，旨在学习前后端分离开发、API集成、数据爬取和大模型应用等技术。项目实现了从Bilibili爬取真实评论，使用百度ERNIE Bot等免费大模型进行分析，并通过React前端展示结果的完整流程。
 
+## 演示
+
+<img width="692" height="390" alt="image" src="https://github.com/user-attachments/assets/c899b09c-3738-4151-9e01-0d5ebc54391f" />
+![Uploading image.png…]()
+
 ## 功能特性
 
 - 🐍 **Python后端**：FastAPI + 异步处理
